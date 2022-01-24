@@ -1,7 +1,6 @@
 # Cripto-simples
 Programa simples de Criptografia
 
-//Elisama Fernanda Ferreira
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
